@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="163px" height="40px" viewBox="0 0 163 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>BTN small</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="BTN-small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M149.933594,39.9997332 L12.6665333,40 C11.714,40 10.8337333,39.4914078 10.3572,38.6658128 L0.3572,21.3341872 C-0.119066667,20.5085922 -0.119066667,19.491141 0.3572,18.6658128 L10.3574667,1.33418721 C10.5956,0.921389689 10.9348,0.587842886 11.3334667,0.357295336 C11.7321333,0.127014623 12.1905333,1.42108547e-14 12.6668,1.42108547e-14 L149.933594,1.42108547e-14 C150.886127,1.42108547e-14 151.76666,0.508592166 152.242927,1.33418721 L162.242927,18.6658128 C162.71946,19.491141 162.719194,20.5085922 162.242927,21.3341872 L152.242927,38.6655459 C152.00506,39.0783435 151.665594,39.4121571 151.266927,39.6424378 C150.86826,39.8727185 150.40986,39.9997332 149.933594,39.9997332 Z" id="Fill-1" fill="#81A14F"></path>
+        <text id="Locate-dealer" font-family="Norwester-Regular, Norwester" font-size="18" font-style="condensed" font-weight="normal" letter-spacing="0.375" fill="#FFFFFF">
+            <tspan x="23.4335" y="27">LOCATE DEALER</tspan>
+        </text>
+    </g>
+</svg>
