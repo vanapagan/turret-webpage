@@ -16,19 +16,24 @@ a, a:hover, a:focus { color: #9b59b6; text-decoration: none; transition: all .3s
 
 h1, h2 {
 	margin-top: 10px;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Norwester', sans-serif;
 	font-size: 38px;
-    font-weight: 300;
-    color: #555;
+	font-weight: 300;
+	/*color: #555;*/
+    color: rgb(255, 255, 255);
     line-height: 50px;
 }
 
 h3 {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Norwester', sans-serif;
 	font-size: 22px;
     font-weight: 300;
-    color: #555;
+	color: rgb(255, 255, 255);
     line-height: 30px;
+}
+
+p {
+	font-family: 'WorkSans', sans-serif;
 }
 
 img { max-width: 100%; }
@@ -184,6 +189,7 @@ img { max-width: 100%; }
 .navbar-brand {
 	width: 136px;
 	background: url(../img/logo.png) left center no-repeat;
+	visibility: hidden;
 	border: 0;
 	text-indent: -99999px;
 }
