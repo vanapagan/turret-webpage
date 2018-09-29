@@ -31,7 +31,8 @@ jQuery(document).ready(function() {
     */
     $('.top-content').backstretch("assets/img/backgrounds/header-background.svg");
     $('.call-to-action-container').backstretch("assets/img/backgrounds/header-background.svg");
-    $('.testimonials-container').backstretch("assets/img/backgrounds/header-background.svg");
+	$('.testimonials-container').backstretch("assets/img/backgrounds/header-background.svg");
+	$('.opinion').backstretch("assets/img/backgrounds/ImportantGuy_BG.svg");
     
     $('#top-navbar-1').on('shown.bs.collapse', function(){
     	$('.top-content').backstretch("resize");

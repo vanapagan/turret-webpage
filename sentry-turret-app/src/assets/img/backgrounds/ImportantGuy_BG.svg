@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="471px" viewBox="0 0 1440 471" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Interlace lines 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1440" height="471"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SentryTurret-LANDINGPAGE" transform="translate(0.000000, -1720.000000)">
+            <g id="IMPORTANT-GUY" transform="translate(0.000000, 1720.000000)">
+                <g id="Interlace-lines-2">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#96A14F" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    <rect id="Rectangle-4-Copy" fill="#96A14F" fill-rule="nonzero" mask="url(#mask-2)" x="0" y="-94" width="1440" height="660"></rect>
+                    <g opacity="0.100837054" mask="url(#mask-2)" id="Shape" stroke="#203E24" stroke-width="5">
+                        <path d="M0,0 L1470,0"></path>
+                        <path d="M0,10 L1470,10"></path>
+                        <path d="M0,21 L1470,21"></path>
+                        <path d="M0,31 L1470,31"></path>
+                        <path d="M0,42 L1470,42"></path>
+                        <path d="M0,52 L1470,52"></path>
+                        <path d="M0,63 L1470,63"></path>
+                        <path d="M0,73 L1470,73"></path>
+                        <path d="M0,84 L1470,84"></path>
+                        <path d="M0,94 L1470,94"></path>
+                        <path d="M0,105 L1470,105"></path>
+                        <path d="M0,116 L1470,116"></path>
+                        <path d="M0,126 L1470,126"></path>
+                        <path d="M0,137 L1470,137"></path>
+                        <path d="M0,147 L1470,147"></path>
+                        <path d="M0,158 L1470,158"></path>
+                        <path d="M0,168 L1470,168"></path>
+                        <path d="M0,179 L1470,179"></path>
+                        <path d="M0,189 L1470,189"></path>
+                        <path d="M0,200 L1470,200"></path>
+                        <path d="M0,210 L1470,210"></path>
+                        <path d="M0,221 L1470,221"></path>
+                        <path d="M0,232 L1470,232"></path>
+                        <path d="M0,242 L1470,242"></path>
+                        <path d="M0,253 L1470,253"></path>
+                        <path d="M0,263 L1470,263"></path>
+                        <path d="M0,274 L1470,274"></path>
+                        <path d="M0,284 L1470,284"></path>
+                        <path d="M0,295 L1470,295"></path>
+                        <path d="M0,305 L1470,305"></path>
+                        <path d="M0,316 L1470,316"></path>
+                        <path d="M0,326 L1470,326"></path>
+                        <path d="M0,337 L1470,337"></path>
+                        <path d="M0,348 L1470,348"></path>
+                        <path d="M0,358 L1470,358"></path>
+                        <path d="M0,369 L1470,369"></path>
+                        <path d="M0,379 L1470,379"></path>
+                        <path d="M0,390 L1470,390"></path>
+                        <path d="M0,400 L1470,400"></path>
+                        <path d="M0,411 L1470,411"></path>
+                        <path d="M0,421 L1470,421"></path>
+                        <path d="M0,432 L1470,432"></path>
+                        <path d="M0,442 L1470,442"></path>
+                        <path d="M0,453 L1470,453"></path>
+                        <path d="M0,464 L1470,464"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
