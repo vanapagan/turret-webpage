@@ -29,9 +29,9 @@ jQuery(document).ready(function() {
     /*
         Background slideshow
     */
-    $('.top-content').backstretch("assets/img/backgrounds/tank.png");
-    $('.call-to-action-container').backstretch("assets/img/backgrounds/tank.png");
-    $('.testimonials-container').backstretch("assets/img/backgrounds/tank.png");
+    $('.top-content').backstretch("assets/img/backgrounds/header-background.svg");
+    $('.call-to-action-container').backstretch("assets/img/backgrounds/header-background.svg");
+    $('.testimonials-container').backstretch("assets/img/backgrounds/header-background.svg");
     
     $('#top-navbar-1').on('shown.bs.collapse', function(){
     	$('.top-content').backstretch("resize");
