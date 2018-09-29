@@ -36,6 +36,10 @@ h3 {
     line-height: 30px;
 }
 
+h4 {
+	font-family: 'WorkSans', sans-serif;
+}
+
 p {
 	font-family: 'WorkSans', sans-serif;
 }
